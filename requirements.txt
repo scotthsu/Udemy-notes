@@ -1,1 +1,10 @@
 pandas
+pandas-datareader
+beautifulsoup4
+html5lib
+selenium
+webdriver-manager
+xlrd
+openpyxl
+statsmodels
+patsy
